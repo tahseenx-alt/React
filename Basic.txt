@@ -1,0 +1,9 @@
+1.how to install
+npm create vite
+npm install tailwindcss @tailwindcss/vite
+
+2. how to importing. in ViteConfig
+import tailwindcss from '@tailwindcss/vite'
+tailwindcss()
+@import "tailwindcss";
+

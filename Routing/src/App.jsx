@@ -6,7 +6,7 @@ import Contact from './Pages/contact';
 import Product from './Pages/Product'
 import Navbar from './components/Navbar';
 function App() {
-  return (
+  return ( 
     <div >
          <Navbar />
       <Routes>
