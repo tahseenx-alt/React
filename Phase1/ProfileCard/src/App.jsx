@@ -2,7 +2,7 @@ import React from 'react'
 
 function App() {
   return (
-    <div className='text-2xl'>
+    <div className='text-xl'>
       Profile Card 
     </div>
   )
