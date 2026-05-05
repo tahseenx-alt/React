@@ -7,12 +7,18 @@ function App() {
       <div className='flex items-center h-150 w-120 bg-cyan-900 rounded-4xl'>
         <div className='h-2 w-120 bg-amber-800'></div>
       </div>
-      <div>
-        <button className='h-20 w-60 bg-cyan-950 rounded-full '>Add</button>
+      <div className=' flex gap-5'>
+        <div>
+          <button className='h-20 w-60 bg-cyan-950 rounded-full '>Add</button>
+        </div>
+        <div>
+          <button className='h-20 w-60 bg-cyan-950 rounded-full '>Remove </button>
+        </div>
+        <div>
+          <button className='h-20 w-60 bg-cyan-950 rounded-full '>Change </button>
+        </div>
       </div>
-      <div>
-        <button className='h-20 w-60 bg-cyan-950 rounded-full '>Remove </button>
-      </div>
+
     </div>
   )
 }
