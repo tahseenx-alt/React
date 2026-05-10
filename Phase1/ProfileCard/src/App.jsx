@@ -11,9 +11,6 @@ function App() {
         <div>
           <button className='h-20 w-60 bg-cyan-950 rounded-full '>Add</button>
         </div>
-        <div>
-          <button className='h-20 w-60 bg-cyan-950 rounded-full '>Remove </button>
-        </div>
       </div>
 
     </div>
